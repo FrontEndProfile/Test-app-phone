@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Test App</string>
-    <string name="hello_text">Hello Fazal!</string>
+    <string name="app_name">AntiSocial</string>
+    <string name="guard_label">AntiSocial Guard</string>
+    <string name="guard_description">Sirf ye dekhta hai ke abhi kaun si app khuli hai, taake limit khatam hone par us app ko rok sake. Koi text nahi parhta, koi data phone se bahar nahi jata.</string>
 </resources>
